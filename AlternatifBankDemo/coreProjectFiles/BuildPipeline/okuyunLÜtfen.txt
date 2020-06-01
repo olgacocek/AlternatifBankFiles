@@ -1,0 +1,1 @@
+devCI ve MasterCI kapsamaktadýr.
